@@ -1,26 +1,38 @@
 [
     {
       "id": "01",
-      "name": "C"
+      "name": "C",
+      "thumbnail_img": "https://www.webdroyd.com/wp-content/uploads/2019/11/C-language.jpg",
+      "title": "C is a very powerful programing language. C is a general-purpose programming language. C is very versatile; it can be used in both applications and technologies."
     },
     {
       "id": "02",
-      "name": "C++"
+      "name": "C++",
+      "thumbnail_img": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+      "title": "C++ is a popular programming language. C++ is used to create computer programs. and is one of the most used language in game development."
     },
     {
       "id": "03",
-      "name": "Java"
+      "name": "Java",
+      "thumbnail_img": "https://content.techgig.com/photo/82064046/Essentials-of-Java-programming-that-every-beginner-should-know.jpg",
+      "title": "Java is a secure programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more. Java works on different platforms."
     },
     {
       "id": "04",
-      "name": "JavaScript"
+      "name": "JavaScript",
+      "thumbnail_img": "https://www.thewindowsclub.com/wp-content/uploads/2020/09/JavaScript.jpg",
+      "title": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web and server side also nowadays."
     },
     {
       "id": "05",
-      "name": "Python"
+      "name": "Python",
+      "thumbnail_img": "https://trotons.com/wp-content/uploads/2019/09/q141s3xfs.png",
+      "title": "Python has a simple syntax similar to the English language. It was created by Guido van Rossum, and released in 1991. Python works on different platforms."
     },
     {
       "id": "06",
-      "name": "PHP"
+      "name": "PHP",
+      "thumbnail_img": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+      "title": "PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP. PHP code is executed on the server."
     }
   ]
