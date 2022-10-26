@@ -20,6 +20,11 @@ app.get('/courses/:id', (req, res) => {
     res.send(coursesDetails.find(course => course.course_id === req.params.id))
 })
 
+app.get('/checkout/:id', (req, res) => {
+    res.send(coursesDetails.find(course => course._id === req.params.id))
+})
+
+
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`)
 })
